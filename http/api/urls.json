@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "Documentação do Node.js",
+      "url": "https://nodejs.org/docs/latest-v12.x/api/index.html"
+    },
+    {
+      "name": "Node.js: Iniciando da teoria à prática",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs&list=PL85ITvJ7FLogMzb2s6K5wKpQK2nL76vUK&index=5&t=577s"
+    }
+  ]
+}

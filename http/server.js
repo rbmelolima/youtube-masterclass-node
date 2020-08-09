@@ -21,5 +21,5 @@ http.createServer((req, res) => {
     }
   );
 
-}).listen(3333, () => console.log("server is running"));
+}).listen(3000, () => console.log("server is running"));
 
