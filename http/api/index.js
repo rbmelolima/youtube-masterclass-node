@@ -20,12 +20,13 @@ http.createServer((req, res) => {
   const { name, url, del } = URL.parse(req.url, true).query;
 
   res.writeHead(200, {
-    'Access-Control-Allow-Origin': '*'
+    'Access-Control-Allow-Origin': '*',
+    'Content-Type': 'application/json',
+    'charset': 'utf-8'
   });
 
   //all resources
   if(!name || !url) {
-    res.setHeader("Content-Type", "application/json; charset=utf-8");
     return res.end(JSON.stringify(data));
   }
 
