@@ -2,3 +2,5 @@
 
 {"free":"3185MB","total":"8144MB","usage":"39%","timestamp":"2020-8-8 19:43:22"}
 
+{"free":"2906MB","total":"8144MB","usage":"35%","timestamp":"2020-8-8 21:42:56"}
+
